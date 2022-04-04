@@ -6,13 +6,13 @@
 ### Mata Kuliah : Pemrograman Web
 
 # Membuat Box Element dan CSS Float Property 
-tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+#### tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 ![gambar1](gambar/vv11.PNG)
 
-Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut. 
+#### Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut. 
 ![gambar2](gambar/vv12.PNG)
 
-hasilnya akan menjadi seperti gambar di bawah ini:
+#### hasilnya akan menjadi seperti gambar di bawah ini:
 ![gambar3](gambar/vv1.PNG)
 
 # Mengatur Clearfix Element 
@@ -36,6 +36,7 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 
 Kemudian buat kerangka layout dengan semantics element seperti berikut. 
 ![gambar10](gambar/vv18.PNG)
+
 Kemudian tulis kode berikut. 
 ![gambar11](gambar/vv19.PNG)
 
@@ -59,9 +60,11 @@ hasilnya akan menjadi seperti gambar di bawah ini:
 Tambahkan kode HTML dan CSS seperti berikut. 
 
 Kode html
+
 ![gambar17](gambar/vv22.PNG)
 
 Kode CSS
+
 ![gambar18](gambar/vv23.PNG)
 
 hasilnya akan menjadi seperti gambar di bawah ini:
@@ -74,10 +77,13 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
 # Membuat Sidebar Widget 
 Kemudian selanjutnya menambahkan element lain dalam sidebar. 
+
 Kode html
+
 ![gambar22](gambar/vv26.PNG)
 
 kode CSS
+
 ![gambar23](gambar/vv27.PNG)
 ![gambar24](gambar/vv28.PNG)
 
@@ -93,9 +99,11 @@ hasilnya akan menjadi seperti gambar di bawah ini:
 
 # Menambahkan Elemen lainnya pada Main Content 
 Kode html
+
 ![gambar28](gambar/vv30.PNG)
 
 Kode CSS
+
 ![gambar29](gambar/vv31.PNG)
 ![gambar30](gambar/vv32.PNG)
 
@@ -104,10 +112,13 @@ hasilnya akan menjadi seperti gambar di bawah ini:
 
 # Menambahkan Content Artikel 
 Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content. 
+
 Kode html
+
 ![gambar32](gambar/vv33.PNG)
 
 Kode CSS
+
 ![gambar33](gambar/vv34.PNG)
 ![gambar34](gambar/vv35.PNG)
 
